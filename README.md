@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 
-Hi
+Hi! This is my README file
